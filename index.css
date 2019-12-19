@@ -1,0 +1,23 @@
+
+.movie:hover{
+ 
+    text-decoration: underline;
+}
+
+.font{
+    width: 350px;
+    height: 350px;
+}
+.back{
+    background-color: beige;
+}
+
+.info{
+    color:blue;
+}
+
+
+.size{
+    width: 300px;
+    height: 300px;
+}
